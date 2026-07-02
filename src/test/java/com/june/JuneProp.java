@@ -6,7 +6,11 @@ import java.util.Properties;
 
 public class JuneProp {
 	public static void prop() {
+<<<<<<< HEAD
 		System.out.println("hello");
+=======
+		System.out.println("true = " + true);
+>>>>>>> a3da08b83166c532b122e4e0ee1dcb428fcbeb37
 		try {
 			FileReader file = new FileReader(
 					"C:\\Users\\M1001\\projectclss-workspace\\JuneProject\\src\\test\\resources\\Files\\sheet.properties");
