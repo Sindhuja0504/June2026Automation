@@ -25,6 +25,7 @@ public class LoginPageL {
 	}
 	public void clickbutton() {
 		driver.findElement(loginbutton).click();
+		kanna
 	}
 	public void login(String user, String pass) {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
