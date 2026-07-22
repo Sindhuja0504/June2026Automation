@@ -1,0 +1,12 @@
+com\june\JuneProp.class
+com\orange\stepDefinition\OrgLoginStepDefinition.class
+com\Page\LoginPageL.class
+com\june\ReadExcel.class
+com\orange\runner\TestRunner.class
+com\orange\baseClass\OrangeUtilityClass.class
+com\orange\pageFactory\OrgLoginPF.class
+com\june\LaunchBrowser.class
+com\orange\pageFactory\OrgAdminPF.class
+com\orange\stepDefinition\OrgAdminStepDefinition.class
+com\test\LoginPageM.class
+com\orange\baseClass\OrangeBaseClass.class

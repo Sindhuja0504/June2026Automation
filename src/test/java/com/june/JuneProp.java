@@ -7,11 +7,11 @@ import java.util.Properties;
 public class JuneProp {
 	public static void prop() {
 
-
-		System.out.println("hello");
-
-		System.out.println("true = " + true);
-
+//
+//	/	System.out.println("hello");
+//
+//		System.out.println("true = " + true);
+                               
  
 		try {
 			FileReader file = new FileReader(
